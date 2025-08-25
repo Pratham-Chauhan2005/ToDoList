@@ -1,3 +1,9 @@
+This Todo List is made with the help and react 
+I use local storage so that the ToDo will get stored in some place .
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
